@@ -1,3 +1,21 @@
-p {
-    color: red;
+.inline-block {
+    display:inline-block;
+    vertical-align: top;
+}
+.logo{
+    width: auto;
+    padding:1%;
+}
+nav{
+    width: auto;
+    padidng: 1%;
+}
+
+ul{
+    width: 50%;
+    margin-left:auto;
+}
+
+footer{
+    background-color: #373738;
 }
